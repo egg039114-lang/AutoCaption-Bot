@@ -1,4 +1,4 @@
-## <b>VJ Auto Caption Bot</b>
+## <b>Auto Caption Bot</b>
 
 ### How To Deploy  [Video Tutorial](https://youtu.be/LRfr24vBCA8).
 
